@@ -1,4 +1,4 @@
-![alt](https://github.com/AhsanParadise/AhsanParadise/blob/master/LIKHO%20POSTER.jpg?v=5&s=500)
+![alt](https://github.com/AhsanParadise/AhsanParadise/blob/master/LIKHO%20POSTER.jpg?v=5&s=100%)
 ### Download Now https://play.google.com/store/apps/details?id=com.codepotro.likho
 <!--
 **AhsanParadise/AhsanParadise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
